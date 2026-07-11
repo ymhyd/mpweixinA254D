@@ -1,5 +1,3 @@
-# mpweixinA254D
-mpweixinA254Dpy餐厅微信点餐小程序
 ## 源码问题查看主页咨询
 
 ### 一、关键词
